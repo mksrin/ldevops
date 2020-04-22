@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Line added by dev1 by cat cmd
 
+=======
+this line is added by dev2 by cat cmd
+>>>>>>> dev_02
